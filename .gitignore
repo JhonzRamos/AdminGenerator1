@@ -3,7 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
-!/vendor/laraveldaily
+!/vendor/laraveldaily/
 /.idea
 /.vagrant
 Homestead.json
